@@ -128,5 +128,10 @@ export const Container = styled.section`
         }
       }
     }
+    @media (max-width: 450px) {
+      > h2 {
+        font-size: 1.6rem;
+      }
+    }
   }
 `;
