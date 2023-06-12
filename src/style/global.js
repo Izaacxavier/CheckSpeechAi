@@ -22,7 +22,8 @@ export default createGlobalStyle`
         background-position: right;
         background-size: 500px;
         background-repeat: no-repeat;
-        padding-top: 40px
+        padding-top: 40px;
+        overflow-x: hidden;
         
     }
     a{
@@ -49,7 +50,7 @@ export default createGlobalStyle`
     
     html{
       font-size: 12px;
-      overflow-x: hidden;
+     
     }
   }
 

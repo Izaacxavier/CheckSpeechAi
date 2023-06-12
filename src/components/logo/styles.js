@@ -28,6 +28,9 @@ export const Container = styled.div`
       > h1 {
         font-size: 1rem;
       }
+      > span {
+        font-size: 1.2rem;
+      }
     }
   }
 `;
