@@ -38,11 +38,9 @@ Checkspeech Ai foi desenvolvido utilizando as seguintes tecnologias:
 
  ✔ Multilíngue: Alterne entre idiomas. A pagina é traduzida em 3 idiomas: English, Español e Português 🇧🇷 🇺🇸 🇪🇸;
 
- ✔ Accordion com as principais solucoes;
+ ✔ Accordion com as principais soluções;
  
  ✔ Cards com scroll horizontal;
-
-✔ Scroll Infinito na página de Pessoas Populares;
 
 ✔ Form de contato com input de telefone que permita a inserção de telefones nacionais e internacionais;
 
@@ -73,7 +71,7 @@ npm start`
 
 # 🎨 Design de Interface
 
-A Interface do projeto foi desenvolvida utilizando o software Figma, você pode visualizar o layout através desse [link](https://www.figma.com/file/NSj0jmH2LhhuIZxug9BLAP/CheckSpeech-AI?type=design&node-id=0%3A1&t=rNfeOoKJlchdlm98-1).
+A Interface do projeto foi desenvolvida utilizando o Figma, você pode visualizar o layout através desse [link](https://www.figma.com/file/NSj0jmH2LhhuIZxug9BLAP/CheckSpeech-AI?type=design&node-id=0%3A1&t=rNfeOoKJlchdlm98-1).
 
    
    
