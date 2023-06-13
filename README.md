@@ -43,6 +43,7 @@ Checkspeech Ai foi desenvolvido utilizando as seguintes tecnologias:
  ✔ Cards com scroll horizontal;
 
 ✔ Form de contato com input de telefone que permita a inserção de telefones nacionais e internacionais;
+<br>
 
 
 # 👨‍💻 Rodando a Aplicação
@@ -68,15 +69,15 @@ Inicie o projeto:
 Copy code
 npm start`
 
+<br>
 
 # 🎨 Design de Interface
 
 A Interface do projeto foi desenvolvida utilizando o Figma, você pode visualizar o layout através desse [link](https://www.figma.com/file/NSj0jmH2LhhuIZxug9BLAP/CheckSpeech-AI?type=design&node-id=0%3A1&t=rNfeOoKJlchdlm98-1).
 
-   
-   
-   
-   
+<br>
+<br>
+    
     
 Desenvolvido com 💜 por Izaac xavier 
 
