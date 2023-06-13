@@ -10,7 +10,7 @@
 
 
 ![Captura de Tela 2023-06-12 às 20 49 59](https://github.com/Izaacxavier/CheckSpeechAi/assets/105816549/00479d15-be6d-4caa-be70-831a828e3149)
-Você pode acessá-lo com este [Aqui](https://quadrokanban.netlify.app)
+Você pode acessá-lo com este [Aqui](https://checkspeechai.vercel.app/)
 
 <hr>
 
@@ -18,7 +18,7 @@ Você pode acessá-lo com este [Aqui](https://quadrokanban.netlify.app)
  
 O CheckSpeech AI é uma Single Page Application (SPA), que oferece soluções poderosas de inteligência artificial para converter falas em textos. Com o CheckSpeech AI, você pode aproveitar um conjunto abrangente de APIs para realizar a conversão de fala em texto e desfrutar de recursos avançados para lidar com áudio e análise de fala.
 
-O deploy para produção foi feito com Vercel, e está disponibilizado neste [endereço](https://quadrokanban.netlify.app).
+O deploy para produção foi feito com Vercel, e está disponibilizado neste [endereço](https://checkspeechai.vercel.app/).
 <br>
 
 # 🚀 Tecnologias
