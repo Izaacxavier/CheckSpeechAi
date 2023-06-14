@@ -11,7 +11,7 @@
 
 ![Captura de Tela 2023-06-12 às 20 49 59](https://github.com/Izaacxavier/CheckSpeechAi/assets/105816549/84cdec7c-a1f1-4649-b1b6-01b403be7b61)
 
-Você pode acessá-lo com este [Aqui](https://checkspeechai.vercel.app/)
+Você pode acessá-lo com [Aqui](https://checkspeechai.vercel.app/)
 
 <hr>
 
